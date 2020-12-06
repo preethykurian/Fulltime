@@ -1,3 +1,7 @@
 read customer name, product id, quantity
 price-productid* quantity 
 print price
+read profile
+if regular customer give golden coupon
+else 
+give regular category
