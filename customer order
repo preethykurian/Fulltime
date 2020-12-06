@@ -1,3 +1,7 @@
 read customer name, product id, quantity
 price-productid* quantity 
 print price
+if price>=300 then 
+print "20% discount offer"
+else
+print " no discount"
